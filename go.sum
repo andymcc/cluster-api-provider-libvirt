@@ -204,6 +204,7 @@ github.com/golang/groupcache v0.0.0-20191002201903-404acd9df4cc/go.mod h1:cIg4er
 github.com/golang/mock v1.1.1/go.mod h1:oTYuIxOrZwtPieC+H1uAHpcLFnEyAGVDL/k47Jfbm0A=
 github.com/golang/mock v1.2.0 h1:28o5sBqPkBsMGnC6b4MvE2TzSr5/AT4c/1fLqVGIwlk=
 github.com/golang/mock v1.2.0/go.mod h1:oTYuIxOrZwtPieC+H1uAHpcLFnEyAGVDL/k47Jfbm0A=
+github.com/golang/mock v1.3.1 h1:qGJ6qTW+x6xX/my+8YUVl4WNpX9B7+/l2tRsHGZ7f2s=
 github.com/golang/mock v1.3.1/go.mod h1:sBzyDLLjw3U8JLTeZvSv8jJB+tU5PVekmnlKIyFUx0Y=
 github.com/golang/protobuf v0.0.0-20161109072736-4bd1920723d7/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
 github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
@@ -367,13 +368,18 @@ github.com/opencontainers/runc v0.0.0-20191031171055-b133feaeeb2e/go.mod h1:qT5X
 github.com/openshift/api v0.0.0-20200320142426-0de0d539b0c3/go.mod h1:7k3+uZYOir97walbYUqApHUA2OPhkQpVJHt0n7GJ6P4=
 github.com/openshift/api v0.0.0-20200323095748-e7041f8762a3/go.mod h1:7k3+uZYOir97walbYUqApHUA2OPhkQpVJHt0n7GJ6P4=
 github.com/openshift/api v0.0.0-20200326152221-912866ddb162/go.mod h1:RKMJ5CBnljLfnej+BJ/xnOWc3kZDvJUaIAEq2oKSPtE=
+github.com/openshift/api v0.0.0-20200424083944-0422dc17083e h1:VDcwVyMEVbLyekLmtob1TEf8GfP454Afc2hO3FkgBps=
 github.com/openshift/api v0.0.0-20200424083944-0422dc17083e/go.mod h1:VnbEzX8SAaRj7Yfl836NykdQIlbEjfL6/CD+AaJQg5Q=
 github.com/openshift/build-machinery-go v0.0.0-20200211121458-5e3d6e570160/go.mod h1:1CkcsT3aVebzRBzVTSbiKSkJMsC/CASqxesfqEMfJEc=
 github.com/openshift/build-machinery-go v0.0.0-20200424080330-082bf86082cc/go.mod h1:1CkcsT3aVebzRBzVTSbiKSkJMsC/CASqxesfqEMfJEc=
 github.com/openshift/client-go v0.0.0-20200320150128-a906f3d8e723/go.mod h1:wNBSSt4RZTHhUWyhBE3gxTR32QpF9DB2SfS14u2IxuE=
+github.com/openshift/client-go v0.0.0-20200326155132-2a6cd50aedd0 h1:kMiuiZXH1GdfbiMwsuAQOqGaMxlo9NCUk0wT4XAdfNM=
 github.com/openshift/client-go v0.0.0-20200326155132-2a6cd50aedd0/go.mod h1:uUQ4LClRO+fg5MF/P6QxjMCb1C9f7Oh4RKepftDnEJE=
+github.com/openshift/cluster-api-provider-aws v0.2.1-0.20200708153314-34dd2b6e8b8d h1:3Af8pXsBHU3d5MJfvqpcmFRCnt4ODBaO5+ipHrVxHeY=
 github.com/openshift/cluster-api-provider-aws v0.2.1-0.20200708153314-34dd2b6e8b8d/go.mod h1:v0c7lywzI8MSB6kh77UMYG1l7j/JzAu2On/jauWABlM=
+github.com/openshift/cluster-api-provider-azure v0.1.0-alpha.3.0.20200709020159-fa840d10429c h1:/sDf2ZsEcA63tP3Z/o/FAPuruR0ToJgs/UPJy5liVwQ=
 github.com/openshift/cluster-api-provider-azure v0.1.0-alpha.3.0.20200709020159-fa840d10429c/go.mod h1:FaWEXOJjthNfSUSdiPOPtL4M6RjjIG+RnHrzRNoCUns=
+github.com/openshift/cluster-api-provider-gcp v0.0.1-0.20200701112720-3a7d727c9a10 h1:AZczulAAkBuMm058BGtk5id9lhupszVQXvZFdKmSHEE=
 github.com/openshift/cluster-api-provider-gcp v0.0.1-0.20200701112720-3a7d727c9a10/go.mod h1:wgkZrOlcIMWTzo8khB4Js2PoDJDlIUUdzCBm7BuDdqw=
 github.com/openshift/library-go v0.0.0-20200324092245-db2a8546af81/go.mod h1:Qc5duoXHzAKyUfA0REIlG/rdfWzknOpp9SiDiyg5Y7A=
 github.com/openshift/library-go v0.0.0-20200512120242-21a1ff978534/go.mod h1:2kWwXTkpoQJUN3jZ3QW88EIY1hdRMqxgRs2hheEW/pg=
